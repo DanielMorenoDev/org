@@ -43,6 +43,14 @@ function App() {
   },
   {
     id: uuid(),
+    equipo: "Front End",
+    foto: "https://github.com/danielmorenodev.png",
+    nombre: "Daniel Moreno",
+    puesto: "Alumno",
+    fav: true
+  },
+  {
+    id: uuid(),
     equipo: "Innovación y Gestión",
     foto: "https://github.com/JoseDarioGonzalezCha.png",
     nombre: "Jose Gonzalez",
